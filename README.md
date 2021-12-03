@@ -3,3 +3,5 @@ A world map of the [Missing Migrants Dataset](https://gist.github.com/curran/a96
 Each point in the plot represents a single event.
 
 Country boundaries from [World Atlas TopoJSON](https://github.com/topojson/world-atlas).
+
+See in VizHub: https://vizhub.com/gonzalomontanes/474b2e5c476c433cbdd70bb85959dceb
